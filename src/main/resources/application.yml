@@ -1,0 +1,27 @@
+server:
+  port: 8088
+
+spring:
+  boot:
+    admin:
+      url: http://localhost:8070
+
+
+
+
+#
+#
+# 创建spring boot项目
+#   1. https://start.spring.io/
+#   2. IDEA
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
