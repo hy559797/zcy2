@@ -11,7 +11,7 @@ public class HelloController {
     @ResponseBody
     @RequestMapping("/hello")
     public String hello(){
-        return "7878786666";
+        return "7878786666---hot-fix";
     }
 
 }
